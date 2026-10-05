@@ -1,0 +1,6 @@
+{
+  "name": "BharatPrice Pulse",
+  "description": "AI-powered market decision copilot for Indian small sellers. Fuses online prices, local sourcing signals, and external risks into clear pricing actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
